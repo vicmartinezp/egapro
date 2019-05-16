@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6733d3e6241c58b3b130f85b2cee6def",
+    "revision": "c684613e2466c792cc219b96b3251d76",
     "url": "/egapro/index.html"
   },
   {
-    "revision": "41c002a2ef064321b3d1",
+    "revision": "57f153959fd3b625d87c",
     "url": "/egapro/static/css/2.764ccc25.chunk.css"
   },
   {
-    "revision": "4dd2214538bbd1726f7b",
+    "revision": "4b059496e6886eb77bb2",
     "url": "/egapro/static/css/main.abee4a3f.chunk.css"
   },
   {
-    "revision": "41c002a2ef064321b3d1",
-    "url": "/egapro/static/js/2.11fddbb8.chunk.js"
+    "revision": "57f153959fd3b625d87c",
+    "url": "/egapro/static/js/2.165fbecf.chunk.js"
   },
   {
-    "revision": "4dd2214538bbd1726f7b",
-    "url": "/egapro/static/js/main.93717eb1.chunk.js"
+    "revision": "4b059496e6886eb77bb2",
+    "url": "/egapro/static/js/main.45fec1f4.chunk.js"
   },
   {
     "revision": "69ebad1239518cd2ea63",
