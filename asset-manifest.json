@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/egapro/static/css/main.7fb50d17.chunk.css",
-    "main.js": "/egapro/static/js/main.59d3e04a.chunk.js",
-    "main.js.map": "/egapro/static/js/main.59d3e04a.chunk.js.map",
+    "main.js": "/egapro/static/js/main.d0640815.chunk.js",
+    "main.js.map": "/egapro/static/js/main.d0640815.chunk.js.map",
     "runtime~main.js": "/egapro/static/js/runtime~main.04610f6f.js",
     "runtime~main.js.map": "/egapro/static/js/runtime~main.04610f6f.js.map",
     "static/css/2.764ccc25.chunk.css": "/egapro/static/css/2.764ccc25.chunk.css",
     "static/js/2.02f31624.chunk.js": "/egapro/static/js/2.02f31624.chunk.js",
     "static/js/2.02f31624.chunk.js.map": "/egapro/static/js/2.02f31624.chunk.js.map",
     "index.html": "/egapro/index.html",
-    "precache-manifest.b8ba455361853a261d78ecbc4c2072fe.js": "/egapro/precache-manifest.b8ba455361853a261d78ecbc4c2072fe.js",
+    "precache-manifest.55fee6119363463038f05b760ba698e5.js": "/egapro/precache-manifest.55fee6119363463038f05b760ba698e5.js",
     "service-worker.js": "/egapro/service-worker.js",
     "static/css/2.764ccc25.chunk.css.map": "/egapro/static/css/2.764ccc25.chunk.css.map",
     "static/css/main.7fb50d17.chunk.css.map": "/egapro/static/css/main.7fb50d17.chunk.css.map"
