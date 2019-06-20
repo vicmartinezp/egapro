@@ -171,7 +171,7 @@ function IndicateurTroisForm({
         fieldName="presencePromotion"
         readOnly={readOnly}
         labelTrue="il y a eu des promotions durant la période de référence"
-        labelFalse="il n’y a pas eu de promotions durant la période de référence"
+        labelFalse="il n’y a pas eu de promotion durant la période de référence"
       />
 
       {values.presencePromotion === "true" && (
